@@ -1,0 +1,46 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+
+
+h1 {
+    padding-bottom: 15px;
+}
+
+h4 {
+    padding-left: 1px;
+}
+
+header, table{
+    width: 100px;
+    border-collapse: separate;
+    padding: 15px;
+}
+
+thead{
+    background-color: rgb(255,255,255);
+}
+
+.dates {
+    color: wheat;
+    font-weight: bold;
+    text-align: end;
+    padding: 20px 0;
+}
+
+.title {
+    color: rgb(2, 2, 2);
+    text-align: left;
+}
+
+table tr.tdata{
+    text-align: left;
+    background-color: rgb(219, 219, 228);
+}
+
+table tr.total {
+    text-align: left;
+    border-bottom: 2px solid black;
+}
